@@ -1,5 +1,7 @@
 package test;
 
-public class Plus {
+public class Plus extends BinaryExpression {
+
+    public Plus()
 
 }

@@ -8,10 +8,11 @@ public class Number implements  Expression{
         value= num;
     }
 
+    @Override
     public double calculate(){
         return value;
     }
 
-  
+
 
 }
